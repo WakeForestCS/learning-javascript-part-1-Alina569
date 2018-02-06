@@ -1,0 +1,76 @@
+{
+    "tutorials": [
+        {
+            "category" : "Style",
+            "title" : "Bootstrap",
+            "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "link" : "https://getbootstrap.com/docs/4.0/components/alerts/",
+            "btn_name" : "Components",
+            "type" : "primary" 
+        },
+        {
+            "category" : "Javascript",
+            "title" : "Node School",
+            "description" : "Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.",
+            "link" : "https://nodeschool.io/",
+            "btn_name" : "Node School",
+            "type" : "success" 
+        },
+        {
+            "category" : "Javascript",
+            "title" : "JS tutorial",
+            "description" : "Learn the best JavaScript tools and frameworks from industry pros. Video tutorials for badass web developers.",
+            "link" : "https://egghead.io/browse/languages/javascript",
+            "btn_name" : "Egghead.io",
+            "type" : "danger" 
+        },
+        {
+            "category" : "HTML",
+            "title" : "HTML tutorial",
+            "description" : "Learn how to use all the basic features of HTML and how to write it in a descriptive and meaningful way.",
+            "link" : "https://www.pluralsight.com/paths/html5",
+            "btn_name" : "Pluralsight.com",
+            "type" : "warning" 
+        },
+        {
+            "category" : "Javascript",
+            "title" : "Express",
+            "description" : "Javascript framework to create API's. ExpressJS provides a robust set of features for web and mobile applications.",
+            "link" : "https://expressjs.com/",
+            "btn_name" : "ExpressJS",
+            "type" : "info" 
+        },
+        {
+            "category" : "Javascript",
+            "title" : "ES6 Katas",
+            "description" : "(ECMAScript 6) Learn ES6 standard by doing it. Fix failing tests. Keep all learnings.",
+            "link" : "http://es6katas.org/",
+            "btn_name" : "Katas",
+            "type" : "success" 
+        },
+        {
+            "category" : "Style",
+            "title" : "Material design",
+            "description" : "(Bootstap alternative) Create beautiful apps with modular and customizable UI components.",
+            "link" : "https://material.io/components/web/",
+            "btn_name" : "Components",
+            "type" : "info" 
+        },
+        {
+            "category" : "Book",
+            "title" : "JS Design Patterns",
+            "description" : "Design patterns are reusable solutions to commonly occurring problems in software design.",
+            "link" : "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+            "btn_name" : "Book",
+            "type" : "danger"
+        },
+        {
+            "category" : "Book",
+            "title" : "JS Design Patterns",
+            "description" : "Design patterns are reusable solutions to commonly occurring problems in software design.",
+            "link" : "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+            "btn_name" : "Book",
+            "type" : "primary" 
+        }
+    ]
+}
